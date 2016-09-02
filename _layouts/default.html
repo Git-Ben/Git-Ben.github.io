@@ -15,7 +15,9 @@
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
           <nav>
+            {% for post in site.posts %}
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            {% endfor %}
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
   <body>
