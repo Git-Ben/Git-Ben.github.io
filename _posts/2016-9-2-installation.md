@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installation of the Code 192 Dashboard Designer.
-description: Learn how to install Code 192 Dashboard Designer in your machine. 
+title: Installation 
+description: Installation of the Code 192 Dashboard Designer. Learn how to install Code 192 Dashboard Designer in your machine. 
 platform: dashboard-platform
 documentation: ug
 ---
