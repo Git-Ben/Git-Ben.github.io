@@ -4,7 +4,7 @@ title: Overview | Welcome to Code 192 Dashboard Server | Complete guide for Code
 description: Efficiently organize and share dashboards through a web interface.
 platform: dashboard-platform
 documentation: ug
-permalink:/overview/
+permalink: /overview/
 ---
 
 # Overview
