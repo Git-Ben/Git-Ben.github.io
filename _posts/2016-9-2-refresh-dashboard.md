@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Refresh Dashboard with Code 192 Dashboard Designer
+title: Refresh Dashboard
 description: How to refresh dashboard with Code 192 Dashboard Designer
 platform: dashboard-platform
 documentation: ug
