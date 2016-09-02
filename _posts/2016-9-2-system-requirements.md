@@ -1,6 +1,6 @@
 ---
 layout: post
-title: System Requirements that are needed to deploy Code 192 Dashboard Platform.
+title: System Requirements 
 description: Learn what are the system Requirements to deploy Code 192 Dashboard Platform in your machine.
 platform: dashboard-platform
 documentation: ug
