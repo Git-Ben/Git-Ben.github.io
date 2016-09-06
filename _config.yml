@@ -84,3 +84,14 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      
