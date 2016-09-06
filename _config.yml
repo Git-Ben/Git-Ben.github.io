@@ -86,12 +86,8 @@ exclude:
   - CNAME
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: "_posts/dashboard-test"
     values:
-      layout: "page"
-      comments: true
-      search: true
+      static: "true"
       
